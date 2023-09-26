@@ -1,5 +1,12 @@
 def sum_and_average(numbers):
+    """Find the sum and average of a list of numbers using inner functions.
 
+    Parameters:
+        numbers (list): List of numbers.
+
+    Returns:
+        tuple: Sum and average of the numbers in the list.
+    """
     # TODO: Innere Funktion zur Berechnung der Summe
 
     # TODO: Innere Funktion zur Berechnung des Durchschnitts
