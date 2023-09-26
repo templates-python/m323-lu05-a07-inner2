@@ -7,13 +7,15 @@ def sum_and_average(numbers):
     Returns:
         tuple: Sum and average of the numbers in the list.
     """
-    # TODO: Innere Funktion zur Berechnung der Summe
+    def calculate_sum():
+        """Calculate the sum of the list."""
+        return sum(numbers) if numbers else 0
 
-    # TODO: Innere Funktion zur Berechnung des Durchschnitts
+    def calculate_average():
+        """Calculate the average of the list."""
+        return sum(numbers) / len(numbers) if numbers else 0
 
-    # TODO: Rufen Sie die beiden inneren Funktionen auf und speichern Sie die Ergebnisse
-    # TODO: Geben Sie die berechnete Summe und den Durchschnitt zurück
-    ...
+    return calculate_sum(), calculate_average()
 
 
 if __name__ == '__main__':
