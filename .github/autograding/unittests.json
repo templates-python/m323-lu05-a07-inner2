@@ -1,0 +1,32 @@
+[
+  {
+    "name": "test_sum_and_average_empty_list",
+    "function": "test_sum_and_average_empty_list",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_sum_and_average_single_element",
+    "function": "test_sum_and_average_single_element",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_sum_and_average_multiple_elements",
+    "function": "test_sum_and_average_multiple_elements",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_sum_and_average_negative_elements",
+    "function": "test_sum_and_average_negative_elements",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_sum_and_average_mixed_elements",
+    "function": "test_sum_and_average_mixed_elements",
+    "timeout": 10,
+    "points": 1
+  }
+]
