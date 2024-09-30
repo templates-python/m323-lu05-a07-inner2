@@ -7,6 +7,7 @@ def sum_and_average(numbers):
     Returns:
         tuple: Sum and average of the numbers in the list.
     """
+
     def calculate_sum():
         """Calculate the sum of the list."""
         return sum(numbers) if numbers else 0
