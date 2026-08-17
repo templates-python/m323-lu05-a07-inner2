@@ -1,3 +1,8 @@
+"""Summe und Durchschnitt.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu05/aufgaben/inner2
+"""
+
 def sum_and_average(numbers):
     """Find the sum and average of a list of numbers using inner functions.
 
